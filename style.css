@@ -55,3 +55,6 @@ nav a {
     flex: 1;
     min-width: 250px;
 }
+header img {
+    width: 120px;
+}
