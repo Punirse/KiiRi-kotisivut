@@ -23,3 +23,18 @@ nav a {
     }
 
 }
+.hero {
+    background: #111;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.hero a {
+    display: inline-block;
+    background: #c90000;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
