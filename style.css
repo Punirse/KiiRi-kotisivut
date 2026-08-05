@@ -24,10 +24,21 @@ nav a {
 
 }
 .hero {
-    background: #111;
+    background-image: url("images/kiirimestari2026.jpg");
+    background-size: cover;
+    background-position: center;
+
+    min-height: 500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
     color: white;
-    padding: 60px 20px;
     text-align: center;
+
+    padding: 40px;
 }
 
 .hero a {
