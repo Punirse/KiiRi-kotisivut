@@ -26,8 +26,8 @@ nav a {
 .hero {
     background-image: url("images/kiirimestari2026.jpg");
     background-size: cover;
-    background-position: center;
-
+   background-position: center 10%;
+    
     min-height: 500px;
 
     display: flex;
