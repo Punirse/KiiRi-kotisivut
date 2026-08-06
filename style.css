@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Oxanium, sans-serif;
+    font-family: "Oxanium", sans-serif;
 }
 
 header {
@@ -44,7 +44,7 @@ nav a {
 .hero-text {
 
     text-align: center;
-    color: black;
+    color: white;
     margin-bottom: 10px;
 }
 
@@ -52,13 +52,13 @@ nav a {
     font-size: 3rem;
     margin: 0;
 
-    text-shadow: 3px 3px 10px black;
+    text-shadow: 3px 3px 10px red;
 }
 
 .hero-text p {
     font-size: 1.4rem;
 
-    text-shadow: 3px 3px 10px black;
+    text-shadow: 3px 3px 10px red;
 }
 
 .hero a {
