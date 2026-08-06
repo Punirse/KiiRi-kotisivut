@@ -44,10 +44,9 @@ nav a {
 .hero-text {
     position: absolute;
 
-    left: 40px;
-    bottom: 10px;
-
-    color: white;
+    text-align: center;
+    color: black;
+    margin-bottom: 10px;
 }
 
 .hero-text h2 {
