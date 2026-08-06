@@ -90,6 +90,10 @@ nav a {
     width: 100%;
     height: auto;
 }
+.logo {
+    width: 200px;
+    height: auto;
+}
 
 header img {
     width: 120px;
