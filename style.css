@@ -71,13 +71,13 @@ nav a {
     font-size: 3rem;
     margin: 0;
 
-    text-shadow: 8px 8px 8px white;
+    text-shadow: 6px 8px 8px white;
 }
 
 .hero-text p {
     font-size: 1.4rem;
 
-    text-shadow: 8px 8px 5px white;
+    text-shadow: 6px 8px 5px white;
 }
 
 .hero a {
