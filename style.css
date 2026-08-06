@@ -202,3 +202,33 @@ header img {
         grid-template-columns: 1fr;
     }
 }
+.maksut {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+.maksut div {
+    background: white;
+    border-left: 4px solid #c90000;
+    padding: 15px;
+    flex: 1;
+    min-width: 220px;
+}
+
+.hinta {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #c90000;
+    margin: 5px 0;
+}
+
+.nappi {
+    display: inline-block;
+    background: #c90000;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+}
